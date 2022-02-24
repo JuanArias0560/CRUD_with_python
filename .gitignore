@@ -1,0 +1,6 @@
+venv/
+*.swp
+*.csv
+.vscode/
+__pycache__
+pv.egg-info/
